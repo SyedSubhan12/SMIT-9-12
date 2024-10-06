@@ -1,0 +1,4 @@
+apple filter=lfs diff=lfs merge=lfs -text
+banana filter=lfs diff=lfs merge=lfs -text
+mango filter=lfs diff=lfs merge=lfs -text
+orange filter=lfs diff=lfs merge=lfs -text
